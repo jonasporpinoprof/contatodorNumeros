@@ -17,5 +17,5 @@ button {
    border: none;
    border-radius: 8px;
 }
-.nome{color:red;}
+.nome{text-align: center; color:red;}
 
